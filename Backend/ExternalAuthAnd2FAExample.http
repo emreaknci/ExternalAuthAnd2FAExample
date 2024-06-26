@@ -1,0 +1,6 @@
+@ExternalAuthAnd2FAExample_HostAddress = http://localhost:5063
+
+GET {{ExternalAuthAnd2FAExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
